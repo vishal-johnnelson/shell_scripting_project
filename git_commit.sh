@@ -20,3 +20,6 @@ git push origin
 
 # Print a success message
 echo "Changes have been committed and pushed to origin with the message: $COMMIT_MESSAGE"
+
+#Step 1: Write commands in script file and save it with .sh extention
+#Step 2: Open the saved the script file and exectute it in this format '<filename.sh>  "commit message"'
